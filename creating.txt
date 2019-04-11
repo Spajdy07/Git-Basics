@@ -1,0 +1,37 @@
+spajdy07@DESKTOP-GN9JB0B:~$ git touch
+git: 'touch' is not a git command. See 'git --help'.
+spajdy07@DESKTOP-GN9JB0B:~$ clear
+spajdy07@DESKTOP-GN9JB0B:~$ cd /mnt/
+spajdy07@DESKTOP-GN9JB0B:/mnt$ cd c/
+spajdy07@DESKTOP-GN9JB0B:/mnt/c$ cd users/
+spajdy07@DESKTOP-GN9JB0B:/mnt/c/users$ cd spajdy/
+spajdy07@DESKTOP-GN9JB0B:/mnt/c/users/spajdy$ cd desktop/
+spajdy07@DESKTOP-GN9JB0B:/mnt/c/users/spajdy/desktop$ cd projects
+spajdy07@DESKTOP-GN9JB0B:/mnt/c/users/spajdy/desktop/projects$ cd git
+-bash: cd: git: No such file or directory
+spajdy07@DESKTOP-GN9JB0B:/mnt/c/users/spajdy/desktop/projects$ cd git-projects/
+-bash: cd: git-projects/: No such file or directory
+spajdy07@DESKTOP-GN9JB0B:/mnt/c/users/spajdy/desktop/projects$
+spajdy07@DESKTOP-GN9JB0B:/mnt/c/users/spajdy/desktop/projects$ ls
+Git-Basics  MySoftweare
+spajdy07@DESKTOP-GN9JB0B:/mnt/c/users/spajdy/desktop/projects$ cd git-basics
+spajdy07@DESKTOP-GN9JB0B:/mnt/c/users/spajdy/desktop/projects/git-basics$ touch
+touch: missing file operand
+Try 'touch --help' for more information.
+spajdy07@DESKTOP-GN9JB0B:/mnt/c/users/spajdy/desktop/projects/git-basics$ git touch creating.txt
+git: 'touch' is not a git command. See 'git --help'.
+spajdy07@DESKTOP-GN9JB0B:/mnt/c/users/spajdy/desktop/projects/git-basics$ git add
+Nothing specified, nothing added.
+Maybe you wanted to say 'git add .'?
+spajdy07@DESKTOP-GN9JB0B:/mnt/c/users/spajdy/desktop/projects/git-basics$ git ad path-to-terminal.txt
+git: 'ad' is not a git command. See 'git --help'.
+
+The most similar commands are
+        add
+        am
+spajdy07@DESKTOP-GN9JB0B:/mnt/c/users/spajdy/desktop/projects/git-basics$ git add path-to-terminal.txt
+fatal: pathspec 'path-to-terminal.txt' did not match any files
+spajdy07@DESKTOP-GN9JB0B:/mnt/c/users/spajdy/desktop/projects/git-basics$ touch mining.txt
+spajdy07@DESKTOP-GN9JB0B:/mnt/c/users/spajdy/desktop/projects/git-basics$ touch creating.txt
+spajdy07@DESKTOP-GN9JB0B:/mnt/c/users/spajdy/desktop/projects/git-basics$ touch erassing.txt
+spajdy07@DESKTOP-GN9JB0B:/mnt/c/users/spajdy/desktop/projects/git-basics$

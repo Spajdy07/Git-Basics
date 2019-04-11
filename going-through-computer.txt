@@ -1,0 +1,54 @@
+spajdy07@DESKTOP-GN9JB0B:/mnt/c/users/Spajdy$ ~
+-bash: /home/spajdy07: Is a directory
+spajdy07@DESKTOP-GN9JB0B:/mnt/c/users/Spajdy$ cd ~
+spajdy07@DESKTOP-GN9JB0B:~$ clear
+spajdy07@DESKTOP-GN9JB0B:~$ cd /mnt/
+spajdy07@DESKTOP-GN9JB0B:/mnt$ cd c/
+spajdy07@DESKTOP-GN9JB0B:/mnt/c$ cd users/
+spajdy07@DESKTOP-GN9JB0B:/mnt/c/users$ cd spajdy/
+spajdy07@DESKTOP-GN9JB0B:/mnt/c/users/spajdy$ ls
+ls: cannot read symbolic link 'Application Data': Permission denied
+ls: cannot read symbolic link 'Cookies': Permission denied
+ls: cannot read symbolic link 'Local Settings': Permission denied
+ls: cannot read symbolic link 'My Documents': Permission denied
+ls: cannot read symbolic link 'NetHood': Permission denied
+ls: cannot read symbolic link 'PrintHood': Permission denied
+ls: cannot read symbolic link 'Recent': Permission denied
+ls: cannot read symbolic link 'SendTo': Permission denied
+ls: cannot read symbolic link 'Start Menu': Permission denied
+ls: cannot read symbolic link 'Templates': Permission denied
+'3D Objects'         Favorites               NTUSER.DAT{1c3790b3-b8ad-11e8-aa21-e41d2d101530}.TxR.0.regtrans-ms                             OneDrive       Templates
+ AppData             IntelGraphicsProfiles   NTUSER.DAT{1c3790b3-b8ad-11e8-aa21-e41d2d101530}.TxR.1.regtrans-ms                             Pictures       Videos
+'Application Data'   Links                   NTUSER.DAT{1c3790b3-b8ad-11e8-aa21-e41d2d101530}.TxR.2.regtrans-ms                             PrintHood      mercurial.ini
+ Contacts           'Local Settings'         NTUSER.DAT{1c3790b3-b8ad-11e8-aa21-e41d2d101530}.TxR.blf                                       Recent         ntuser.dat.LOG1
+ Cookies             MicrosoftEdgeBackups    NTUSER.DAT{1c3790b4-b8ad-11e8-aa21-e41d2d101530}.TM.blf                                       'Saved Games'   ntuser.dat.LOG2
+ Desktop             Music                   NTUSER.DAT{1c3790b4-b8ad-11e8-aa21-e41d2d101530}.TMContainer00000000000000000001.regtrans-ms   Searches       ntuser.ini
+ Documents          'My Documents'           NTUSER.DAT{1c3790b4-b8ad-11e8-aa21-e41d2d101530}.TMContainer00000000000000000002.regtrans-ms   SendTo
+ Downloads           NTUSER.DAT              NetHood                                                                                       'Start Menu'
+spajdy07@DESKTOP-GN9JB0B:/mnt/c/users/spajdy$ cd desktop/
+spajdy07@DESKTOP-GN9JB0B:/mnt/c/users/spajdy/desktop$ ls
+'GitHub Desktop.lnk'   IObit   Projects   desktop.ini
+spajdy07@DESKTOP-GN9JB0B:/mnt/c/users/spajdy/desktop$  cd ..
+spajdy07@DESKTOP-GN9JB0B:/mnt/c/users/spajdy$ ls
+ls: cannot read symbolic link 'Application Data': Permission denied
+ls: cannot read symbolic link 'Cookies': Permission denied
+ls: cannot read symbolic link 'Local Settings': Permission denied
+ls: cannot read symbolic link 'My Documents': Permission denied
+ls: cannot read symbolic link 'NetHood': Permission denied
+ls: cannot read symbolic link 'PrintHood': Permission denied
+ls: cannot read symbolic link 'Recent': Permission denied
+ls: cannot read symbolic link 'SendTo': Permission denied
+ls: cannot read symbolic link 'Start Menu': Permission denied
+ls: cannot read symbolic link 'Templates': Permission denied
+'3D Objects'         Favorites               NTUSER.DAT{1c3790b3-b8ad-11e8-aa21-e41d2d101530}.TxR.0.regtrans-ms                             OneDrive       Templates
+ AppData             IntelGraphicsProfiles   NTUSER.DAT{1c3790b3-b8ad-11e8-aa21-e41d2d101530}.TxR.1.regtrans-ms                             Pictures       Videos
+'Application Data'   Links                   NTUSER.DAT{1c3790b3-b8ad-11e8-aa21-e41d2d101530}.TxR.2.regtrans-ms                             PrintHood      mercurial.ini
+ Contacts           'Local Settings'         NTUSER.DAT{1c3790b3-b8ad-11e8-aa21-e41d2d101530}.TxR.blf                                       Recent         ntuser.dat.LOG1
+ Cookies             MicrosoftEdgeBackups    NTUSER.DAT{1c3790b4-b8ad-11e8-aa21-e41d2d101530}.TM.blf                                       'Saved Games'   ntuser.dat.LOG2
+ Desktop             Music                   NTUSER.DAT{1c3790b4-b8ad-11e8-aa21-e41d2d101530}.TMContainer00000000000000000001.regtrans-ms   Searches       ntuser.ini
+ Documents          'My Documents'           NTUSER.DAT{1c3790b4-b8ad-11e8-aa21-e41d2d101530}.TMContainer00000000000000000002.regtrans-ms   SendTo
+ Downloads           NTUSER.DAT              NetHood                                                                                       'Start Menu'
+spajdy07@DESKTOP-GN9JB0B:/mnt/c/users/spajdy$ cd music/
+spajdy07@DESKTOP-GN9JB0B:/mnt/c/users/spajdy/music$ ls
+desktop.ini
+spajdy07@DESKTOP-GN9JB0B:/mnt/c/users/spajdy/music$

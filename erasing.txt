@@ -1,0 +1,17 @@
+spajdy07@DESKTOP-GN9JB0B:~$ clear
+spajdy07@DESKTOP-GN9JB0B:~$ cd /mnt/
+spajdy07@DESKTOP-GN9JB0B:/mnt$ cd c/
+spajdy07@DESKTOP-GN9JB0B:/mnt/c$ cd users/spajdy/desktop/projects/git-basics/
+spajdy07@DESKTOP-GN9JB0B:/mnt/c/users/spajdy/desktop/projects/git-basics$ ls
+README.md  creating.txt  erassing.txt  going-through-computer.txt  mining.txt
+spajdy07@DESKTOP-GN9JB0B:/mnt/c/users/spajdy/desktop/projects/git-basics$ rm erassing.txt
+spajdy07@DESKTOP-GN9JB0B:/mnt/c/users/spajdy/desktop/projects/git-basics$ ls
+README.md  creating.txt  going-through-computer.txt  mining.txt
+spajdy07@DESKTOP-GN9JB0B:/mnt/c/users/spajdy/desktop/projects/git-basics$ touch erasing.txt
+spajdy07@DESKTOP-GN9JB0B:/mnt/c/users/spajdy/desktop/projects/git-basics$ ls
+README.md  creating.txt  erasing.txt  going-through-computer.txt  mining.txt
+spajdy07@DESKTOP-GN9JB0B:/mnt/c/users/spajdy/desktop/projects/git-basics$ rm mining.txt
+spajdy07@DESKTOP-GN9JB0B:/mnt/c/users/spajdy/desktop/projects/git-basics$ ls
+README.md  creating.txt  erasing.txt  going-through-computer.txt
+spajdy07@DESKTOP-GN9JB0B:/mnt/c/users/spajdy/desktop/projects/git-basics$ cd ~
+spajdy07@DESKTOP-GN9JB0B:~$
